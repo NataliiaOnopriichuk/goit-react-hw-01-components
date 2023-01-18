@@ -4,7 +4,7 @@
   background: white;
   display: inline-block;
   margin: auto;
-  /* padding: 30px; */
+
   border-radius: 19px;
   text-align: center;
   box-shadow: -1px 15px 30px -12px black;
@@ -46,7 +46,7 @@
 .statsItem {
   display: flex;
   flex-direction: column;
-  width: 70px;
+  min-width: 70px;
   float: left;
   padding: 30px 10px;
 }
